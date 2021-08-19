@@ -1,0 +1,6 @@
+Model,Alive_0,Damage_Due_To_other_Reasons1,Damage_Due_To_pesticide_2
+LGBM,0,0,0.015626669
+Random Forest,0.031243563,0.015624285,0.015627861
+SVM,0.015625954,0,0
+Naive Bayes,0.015625715,0,0
+kNN,0,0.015625477,0

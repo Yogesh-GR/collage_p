@@ -1,0 +1,11 @@
+Jayme Garcia Arnal Barbedo,
+Plant disease identification from individual lesions and spots using deep learning,
+Biosystems Engineering,
+Volume 180,
+2019,
+Pages 96-107,
+ISSN 1537-5110,
+https://doi.org/10.1016/j.biosystemseng.2019.02.002.
+(http://www.sciencedirect.com/science/article/pii/S1537511018307797)
+Abstract: Deep learning is quickly becoming the standard technique for image classification. The main problem facing the automatic identification of plant diseases using this strategy is the lack of image databases capable of representing the wide variety of conditions and symptom characteristics found in practice. Data augmentation techniques decrease the impact of this problem, but those cannot reproduce most of the practical diversity. This paper explores the use of individual lesions and spots for the task, rather than considering the entire leaf. Since each region has its own characteristics, the variability of the data is increased without the need for additional images. This also allows the identification of multiple diseases affecting the same leaf. On the other hand, suitable symptom segmentation still needs to be done manually, preventing full automation. The accuracies obtained using this approach were, in average, 12% higher than those achieved using the original images. Additionally, no crop had accuracies below 75%, even when as many as 10 diseases were considered. Although the database does not cover the entire range of practical possibilities, these results indicate that, as long as enough data is available, deep learning techniques are effective for plant disease detection and recognition.
+Keywords: Image processing; Image classification; Deep neural nets; Transfer learning; Disease classification

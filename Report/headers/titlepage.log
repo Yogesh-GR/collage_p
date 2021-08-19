@@ -1,0 +1,497 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.26)  26 JUL 2020 15:51
+entering extended mode
+**./titlepage.tex
+(titlepage.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17>
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 	\begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--6
+[] 
+ []
+
+
+Overfull \hbox (8191.99998pt too wide) in paragraph at lines 10--10
+ [][] 
+ []
+
+! Undefined control sequence.
+l.11 {\Huge
+            \textbf{An Hybrid Approach For Text Document Classification Usin...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (15.08325pt too wide) in paragraph at lines 11--11
+ []\OT1/cmr/bx/n/10 An 
+ []
+
+
+Overfull \hbox (18.90268pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Hy- 
+ []
+
+
+Overfull \hbox (20.70824pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 brid 
+ []
+
+
+Overfull \hbox (18.91656pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Ap- 
+ []
+
+
+Overfull \hbox (33.64565pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 proach 
+ []
+
+
+Overfull \hbox (16.76381pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 For 
+ []
+
+
+Overfull \hbox (22.85405pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Text 
+ []
+
+
+Overfull \hbox (23.8332pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Doc- 
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 u- 
+ []
+
+
+Overfull \hbox (25.3957pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 ment 
+ []
+
+
+Overfull \hbox (25.45955pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Clas- 
+ []
+
+
+Overfull \hbox (11.56381pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 si- 
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 fi- 
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 ca- 
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 tion 
+ []
+
+
+Overfull \hbox (17.21655pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Us- 
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+
+Overfull \hbox (28.80539pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Nave 
+ []
+
+
+Overfull \hbox (29.00815pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Bayes 
+ []
+
+
+Overfull \hbox (21.4721pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 And 
+ []
+
+
+Overfull \hbox (14.58325pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 In- 
+ []
+
+
+Overfull \hbox (31.36925pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 stance 
+ []
+
+
+Overfull \hbox (29.96648pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Based 
+ []
+
+
+Overfull \hbox (32.73593pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Learn- 
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+
+Overfull \hbox (8191.99998pt too wide) in paragraph at lines 12--12
+ [][] 
+ []
+
+! Undefined control sequence.
+l.15 	{\large
+              \fontfamily{ppl}\centering\textit{A Technical Report on the Mi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
+5.
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+Overfull \hbox (7.21997pt too wide) in paragraph at lines 15--15
+ []\OT1/ppl/m/it/10 A 
+ []
+
+
+Overfull \hbox (21.28978pt too wide) in paragraph at lines 15--15
+ \OT1/ppl/m/it/10 Tech- 
+ []
+
+
+Overfull \hbox (11.66978pt too wide) in paragraph at lines 15--15
+ \OT1/ppl/m/it/10 ni- 
+ []
+
+
+Overfull \hbox (11.28978pt too wide) in paragraph at lines 15--15
+ \OT1/ppl/m/it/10 cal 
+ []
+
+
+Overfull \hbox (13.88977pt too wide) in paragraph at lines 15--15
+ \OT1/ppl/m/it/10 Re- 
+ []
+
+
+Overfull \hbox (16.65979pt too wide) in paragraph at lines 15--15
+ \OT1/ppl/m/it/10 port 
+ []
+
+
+Overfull \hbox (9.99988pt too wide) in paragraph at lines 15--15
+ \OT1/ppl/m/it/10 on 
+ []
+
+
+Overfull \hbox (12.21985pt too wide) in paragraph at lines 15--15
+ \OT1/ppl/m/it/10 the 
+ []
+
+
+Overfull \hbox (20.55966pt too wide) in paragraph at lines 15--15
+ \OT1/ppl/m/it/10 Mini 
+ []
+
+
+Overfull \hbox (28.32957pt too wide) in paragraph at lines 15--15
+ \OT1/ppl/m/it/10 Project 
+ []
+
+
+Overfull \hbox (36.85933pt too wide) in paragraph at lines 19--19
+ []\OT1/ppl/m/it/10 submited 
+ []
+
+
+Overfull \hbox (9.62987pt too wide) in paragraph at lines 19--19
+ \OT1/ppl/m/it/10 by 
+ []
+
+
+Overfull \hbox (30.3795pt too wide) in paragraph at lines 21--21
+ []\OT1/ppl/m/it/10 Kishore 
+ []
+
+
+Overfull \hbox (7.21997pt too wide) in paragraph at lines 21--21
+ \OT1/ppl/m/it/10 G 
+ []
+
+
+Overfull \hbox (6.66992pt too wide) in paragraph at lines 21--21
+ \OT1/ppl/m/it/10 R 
+ []
+
+
+Overfull \hbox (69.44969pt too wide) in paragraph at lines 22--22
+ []\OT1/ppl/m/it/10 01JST19PDS005 
+ []
+
+
+Overfull \hbox (9.43993pt too wide) in paragraph at lines 24--24
+ []\OT1/ppl/m/it/10 To 
+ []
+
+! Undefined control sequence.
+l.26 		{\includegraphics
+                        [width=0.3\textwidth]{logo.jpg}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.26 		{\includegraphics[width=0.3\textwidth]
+                                             {logo.jpg}}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.26 		{\includegraphics[width=0.3\textwidth]
+                                             {logo.jpg}}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+
+Overfull \hbox (28.32957pt too wide) in paragraph at lines 28--28
+ []\OT1/ppl/m/it/10 Project 
+ []
+
+
+Overfull \hbox (24.44969pt too wide) in paragraph at lines 28--28
+ \OT1/ppl/m/it/10 Guide 
+ []
+
+
+Overfull \hbox (19.53978pt too wide) in paragraph at lines 30--30
+ []\OT1/ppl/m/it/10 Prof. 
+ []
+
+
+Overfull \hbox (6.10999pt too wide) in paragraph at lines 30--30
+ \OT1/ppl/m/it/10 B 
+ []
+
+
+Overfull \hbox (5.55994pt too wide) in paragraph at lines 30--30
+ \OT1/ppl/m/it/10 S 
+ []
+
+
+Overfull \hbox (19.43968pt too wide) in paragraph at lines 30--30
+ \OT1/ppl/m/it/10 Har- 
+ []
+
+
+Overfull \hbox (11.66978pt too wide) in paragraph at lines 30--30
+ \OT1/ppl/m/it/10 ish 
+ []
+
+! Undefined control sequence.
+l.32 	    \large
+                \fontfamily{ppl} {Department of Information Science \& Engin...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no & in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+! Undefined control sequence.
+l.33 		\small
+              \fontfamily{ppl}{JSS Science and Technology University (SJCE),...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no J in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no J in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ./titlepage.tex
+                   
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 60 strings out of 481225
+ 1030 string characters out of 2914084
+ 244094 words of memory out of 3000000
+ 15731 multiletter control sequences out of 15000+200000
+ 535805 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 14i,1n,15p,193b,121s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

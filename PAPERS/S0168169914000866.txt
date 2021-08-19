@@ -1,0 +1,11 @@
+Evan J. Coopersmith, Barbara S. Minsker, Craig E. Wenzel, Brian J. Gilmore,
+Machine learning assessments of soil drying for agricultural planning,
+Computers and Electronics in Agriculture,
+Volume 104,
+2014,
+Pages 93-104,
+ISSN 0168-1699,
+https://doi.org/10.1016/j.compag.2014.04.004.
+(http://www.sciencedirect.com/science/article/pii/S0168169914000866)
+Abstract: The hydrologic processes of wetting and drying play a crucial role in agricultural activities involving heavy equipment on unpaved terrain. When soil conditions moisten, equipment can become mired, causing expensive delays. While experienced users may assess soil conditions before entering off-road areas, novice users or those who must remotely assess sites before traveling may have difficulty assessing conditions reliably. One means of assessing dryness is remotely-monitored in situ sensors. Unfortunately, land owners hesitate to place sensors due to monetary costs, complexity, and sometimes infeasibility of physical visits to remote locations. This work addresses these limitations by modeling the wetting/drying process through machine learning algorithms fed by hydrologic data – remotely assessing soil conditions using only publicly-accessible information. Classification trees, k-nearest-neighbors, and boosted perceptrons deliver statistical soil dryness estimates at a site located in Urbana, IL. The k-nearest-neighbor and boosted perceptron algorithms both performed with 91–94% accuracy, with most misclassifications falling within calculated margins of error. These analyses demonstrate that reasonably accurate predictions of current soil conditions are possible with only precipitation and potential evaporation data. These two values are measured throughout the continental United States and are likely to be available globally from satellite sensors in the near future. Through this type of approach, agricultural management decisions can be enabled remotely, without the time and expense of on-site visitations or extensive ground-based sensory grids.
+Keywords: Soil drying; Field readiness; Machine learning; Nearest neighbors; Soil moisture; Decision support

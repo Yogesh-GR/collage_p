@@ -1,0 +1,299 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.26)  1 MAY 2021 09:37
+entering extended mode
+**./miniProj.tex
+(miniProj.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17>
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/lipsum\lipsum.sty
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-07-17 L3 programming layer (loader) 
+
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count176
+\l__pdf_internal_box=\box45
+))
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/l3packages/xparse\xparse-generic.tex
+\l__xparse_current_arg_int=\count177
+\g__xparse_grabber_int=\count178
+\l__xparse_m_args_int=\count179
+\l__xparse_v_nesting_int=\count180
+))
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/lipsum\lipsum.ltd.tex
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen137
+\ar@mcellbox=\box46
+\extrarowheight=\dimen138
+\NC@list=\toks18
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box47
+)
+\rotheadsize=\dimen139
+\c@nlinenum=\count181
+\TeXr@lab=\toks19
+)
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(E:\RUNNING_SOFTWARES\Miktek\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(E:\RUNNING_SOFTWARES\Miktek\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count182
+\Gm@cntv=\count183
+\c@Gm@tempcnt=\count184
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks20
+
+(E:\RUNNING_SOFTWARES\Miktek\tex/latex/geometry\geometry.cfg)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (426.79134pt) is ignored.
+
+) (miniProj.aux
+
+LaTeX Warning: Label `tab:caption' multiply defined.
+
+
+LaTeX Warning: Label `tab:caption' multiply defined.
+
+)
+\openout1 = `miniProj.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+ (E:\RUNNING_SOFTWARES\Miktek\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count185
+\scratchdimen=\dimen148
+\scratchbox=\box48
+\nofMPsegments=\count186
+\nofMParguments=\count187
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count188
+\MPscratchDim=\dimen149
+\MPnumerator=\count189
+\makeMPintoPDFobject=\count190
+\everyMPtoPDFconversion=\toks22
+) (E:\RUNNING_SOFTWARES\Miktek\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 17.07164pt
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 435.89626pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=435.89626pt
+* \textheight=700.50687pt
+* \oddsidemargin=17.07164pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(headers/titlepage.tex
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
+5.
+ (E:\RUNNING_SOFTWARES\Miktek\tex/latex/psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+<images/logo.jpg, id=1, 250.9375pt x 159.59625pt>
+File: images/logo.jpg Graphic file (type jpg)
+<use images/logo.jpg>
+Package pdftex.def Info: images/logo.jpg  used on input line 26.
+(pdftex.def)             Requested size: 130.7702pt x 83.17316pt.
+[1
+
+{C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/lo
+go.jpg>]) (headers/certificate.tex) [1] (headers/abstract.tex) [2]
+(miniProj.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `miniProj.toc'.
+
+ [3] (miniProj.lot)
+\tf@lot=\write4
+\openout4 = `miniProj.lot'.
+
+ [4] (miniProj.lof)
+\tf@lof=\write5
+\openout5 = `miniProj.lof'.
+
+ [5]
+<images/cat.jpg, id=26, 319.94531pt x 109.1578pt>
+File: images/cat.jpg Graphic file (type jpg)
+<use images/cat.jpg>
+Package pdftex.def Info: images/cat.jpg  used on input line 34.
+(pdftex.def)             Requested size: 223.96017pt x 76.40993pt.
+ [6] [7 <./images/cat.jpg>] [8] [9] [10] [11]
+<images/method.jpg, id=53, 352.31625pt x 196.48407pt>
+File: images/method.jpg Graphic file (type jpg)
+<use images/method.jpg>
+Package pdftex.def Info: images/method.jpg  used on input line 108.
+(pdftex.def)             Requested size: 352.31538pt x 196.48358pt.
+ [12
+
+ <./images/method.jpg>]
+Overfull \hbox (29.02313pt too wide) in paragraph at lines 181--197
+ [][] 
+ []
+
+[13] [14] [15] [16
+
+] [17
+
+]
+Underfull \hbox (badness 3895) in paragraph at lines 262--263
+[]\OT1/cmr/m/n/12 JOUR, Van Hulle, Marc, Slado-je-vic, Srd-jan, Ar-sen-ovic, Ma
+rko, An-
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 262--263
+\OT1/cmr/m/n/12 derla, An-dras, Culi-brk, Dubravko, Ste-fanovic, Darko, 2016, 2
+016/06/22,
+ []
+
+[18] [19] [20] (miniProj.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2622 strings out of 481225
+ 45582 string characters out of 2914084
+ 453222 words of memory out of 3000000
+ 18161 multiletter control sequences out of 15000+200000
+ 544270 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,15n,36p,2029b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+{E:/RUNNING_SOFTWARES/Miktek/fonts/enc/dvips/base/8r.enc}<E:/RUNNING_SOFTWARE
+S/Miktek/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/RUNNING_SOFTWARES/Miktek
+/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><E:/RUNNING_SOFTWARES/Miktek/fonts
+/type1/public/amsfonts/cm/cmex10.pfb><E:/RUNNING_SOFTWARES/Miktek/fonts/type1/p
+ublic/amsfonts/cm/cmmi12.pfb><E:/RUNNING_SOFTWARES/Miktek/fonts/type1/public/am
+sfonts/cm/cmmi6.pfb><E:/RUNNING_SOFTWARES/Miktek/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb><E:/RUNNING_SOFTWARES/Miktek/fonts/type1/public/amsfonts/cm/cmr12.pf
+b><E:/RUNNING_SOFTWARES/Miktek/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/RUNN
+ING_SOFTWARES/Miktek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/RUNNING_SOFT
+WARES/Miktek/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/RUNNING_SOFTWARES/Mik
+tek/fonts/type1/urw/palatino/uplr8a.pfb><E:/RUNNING_SOFTWARES/Miktek/fonts/type
+1/urw/palatino/uplri8a.pfb>
+Output written on miniProj.pdf (21 pages, 256224 bytes).
+PDF statistics:
+ 122 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

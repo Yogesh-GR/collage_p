@@ -1,0 +1,11 @@
+Konstantinos P. Ferentinos,
+Deep learning models for plant disease detection and diagnosis,
+Computers and Electronics in Agriculture,
+Volume 145,
+2018,
+Pages 311-318,
+ISSN 0168-1699,
+https://doi.org/10.1016/j.compag.2018.01.009.
+(http://www.sciencedirect.com/science/article/pii/S0168169917311742)
+Abstract: In this paper, convolutional neural network models were developed to perform plant disease detection and diagnosis using simple leaves images of healthy and diseased plants, through deep learning methodologies. Training of the models was performed with the use of an open database of 87,848 images, containing 25 different plants in a set of 58 distinct classes of [plant, disease] combinations, including healthy plants. Several model architectures were trained, with the best performance reaching a 99.53% success rate in identifying the corresponding [plant, disease] combination (or healthy plant). The significantly high success rate makes the model a very useful advisory or early warning tool, and an approach that could be further expanded to support an integrated plant disease identification system to operate in real cultivation conditions.
+Keywords: Convolutional neural networks; Machine learning; Artificial intelligence; Plant disease identification; Pattern recognition
