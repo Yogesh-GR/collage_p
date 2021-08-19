@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{4}%
+\contentsline {subsection}{\numberline {1.1}About the organization}{5}%
+\contentsline {subsection}{\numberline {1.2}About the work carried out}{6}%
+\contentsline {subsection}{\numberline {1.3}DevOps tools and Languages Trained}{6}%
+\contentsline {section}{\numberline {2}Assignments Taken Up}{11}%
+\contentsline {subsection}{\numberline {2.1}Deployment of NodeJS application using Kubernetes and to perform Liveness Probe on it}{11}%
+\contentsline {subsubsection}{\numberline {2.1.1}Introduction}{11}%
+\contentsline {subsubsection}{\numberline {2.1.2}Design work-flow}{11}%
+\contentsline {subsubsection}{\numberline {2.1.3}Liveness probe}{12}%
+\contentsline {subsection}{\numberline {2.2}Jenkins freestyle project to download artifacts}{12}%
+\contentsline {subsubsection}{\numberline {2.2.1}Introduction}{12}%
+\contentsline {subsubsection}{\numberline {2.2.2}Design work-flow}{12}%
+\contentsline {subsection}{\numberline {2.3}Other tasks}{13}%
+\contentsline {section}{\numberline {3}Conclusion}{14}%
+\contentsline {subsection}{\numberline {3.1}Briefly summarize the work done}{14}%
+\contentsline {subsection}{\numberline {3.2}Impact of industrial training}{14}%
+\contentsline {section}{References}{14}%
